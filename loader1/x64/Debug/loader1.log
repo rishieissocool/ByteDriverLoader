@@ -1,0 +1,8 @@
+﻿  loader1.cpp
+  kdmapper.cpp
+  intel_driver.cpp
+  utils.cpp
+  portable_executable.cpp
+  service.cpp
+  Generating Code...
+  loader1.vcxproj -> C:\Projects\loader\loader1\x64\Debug\loader1.exe

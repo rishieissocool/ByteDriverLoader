@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="loader1/ByteDriverLoader.vcxproj" Id="71cd0b22-f847-49bd-8470-0829f56fa71d" />
+  <Project Path="driver_to_bytes/driver_to_bytes.vcxproj" Id="a1b2c3d4-e5f6-7890-abcd-ef1234567890" />
+</Solution>
